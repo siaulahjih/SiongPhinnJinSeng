@@ -1,8 +1,8 @@
 # Configurations
-title:            《作田人博物館》
-longtitle:        Choh-chhân-lâng Phok-bu̍t-koán (作田人博物館)
+title:            《看相片回想人生》
+longtitle:        Khòaⁿ siòng-phìⁿ hôe-sióng jîn-seng (看相片回想人生)
 author:           Siau Lah-jih
-email:            taibunkesimi+chohchhanlang@gmail.com
+email:            tzuhua818@gmail.com
 description: >
   Build Jekyll site with the GitBook style.
 
@@ -10,7 +10,7 @@ version:          0.1
 gitbook_version:  3.2.3
 
 url:              ''
-baseurl:          'https://siaulahjih.github.io/ChohChhanLang'
+baseurl:          'https://siaulahjih.github.io/SiongPhinnJinSeng'
 rss:              RSS
 
 toc:
