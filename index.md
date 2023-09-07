@@ -31,4 +31,4 @@ Siau Lah-jih（蕭平治）先生chit本著作ê內容實在是不止á豐沛，
 ## 建議、聯絡
 Nā網站內容有任何問題a̍h是建議，請聯絡網站負責人 Tân Chu-hôa。
 
-    電子phoe：
+    電子phoe：tzuhua818@gmail.com
